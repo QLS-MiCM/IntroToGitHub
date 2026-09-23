@@ -1,0 +1,4 @@
+for the record i've used gits and github and stuff before,
+but i specifically remember trying to undo changes and them just making new commits
+and now i earled that i guess somehow through the github desktop app alone,
+you can actually erase the commits. why only that way? beats me
